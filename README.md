@@ -33,3 +33,5 @@ throughout the semester.
 - Containerization with Docker
 - CI/CD pipeline integration
 - Agile development methodology
+
+Milestone 3: Explored AI-assisted tools for project documentation and design (see Confluence for details).
