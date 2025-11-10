@@ -34,4 +34,4 @@ throughout the semester.
 - CI/CD pipeline integration
 - Agile development methodology
 
-Milestone 3: Explored AI-assisted tools for project documentation and design (see Confluence for details).
+Milestone 3:(https://my-team-kgk1lqtv.atlassian.net/wiki/spaces/~7120206fa280e5c552476495d9fbec93877292/pages/18743297/Milestone+3+AI-Assisted+Tools+and+Ethics?atlOrigin=eyJpIjoiYzQ5NDRhMzcwNWIxNDdmM2E5MWZiOTYxY2M0OTU5NGYiLCJwIjoiaiJ9) Explored AI-assisted tools for project documentation and design (see Confluence for details).
